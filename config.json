@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderdarse",
+        "uuid": 7946240,
+        "checksum": "ul7us7"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
